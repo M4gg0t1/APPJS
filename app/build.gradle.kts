@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.jsapp"
+    namespace = "com.example.jsapp" // Cambia esto si tu paquete es diferente
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.jsapp"
+        applicationId = "com.example.jsapp" // Cambia esto si tu paquete es diferente
         minSdk = 21
         targetSdk = 33
         versionCode = 1
