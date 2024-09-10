@@ -1,4 +1,4 @@
-package com.example.miapp;
+package com.example.jsapp;
 
 import android.view.LayoutInflater;
 import android.view.View;
